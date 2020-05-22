@@ -1,0 +1,19 @@
+Introduction
+    cite microwave
+    kappa of main isotopologue in ground state
+
+Experiments
+    look at the sample bottle
+    frequency resolution
+    noise intensity
+    how to estimate sensitivity? (Oli)
+
+Pictures
+    piece of spectrum from the poster
+    draw a picture of the molecule
+
+Tables
+    script
+
+
+
